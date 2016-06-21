@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'SnowNasaPython',
   packages = ['SnowNasaPython'], 
-  version = '1.0',
+  version = '1.1',
   description = 'A python lib to interact with Nasas API',
   author = 'Justin Snow',
   author_email = 'jrsnow8921@gmail.com',
