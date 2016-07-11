@@ -10,4 +10,5 @@ setup(
   download_url = 'https://github.com/Jrsnow8921/SnowNasaPython/archive/1.3.tar.gz', 
   keywords = ['Nasa', 'API'], 
   classifiers = [],
+  py_modules = ['snownasapython'],
 )
